@@ -34,7 +34,6 @@
 
 ```bash
 git clone https://github.com/your-repository/lab20-system.git
-cd lab20-system
 Откройте решение в Visual Studio:
 
 File -> Open -> Project/Solution -> выберите Labratory.sln
@@ -57,5 +56,15 @@ MainWindow.xaml - стартовое окно авторизации
 AdminWindow.xaml - интерфейс администратора
 
 AccountantWindow.xaml - интерфейс бухгалтера
+
+LabAssistant.xaml - интерфейс лаборанта
+
+LabRAssistant.xaml - интерфейс лаборанта-исследователя
+
+PatientWindow.xaml -интерфейс пациента
+
+SelectBloodTestsWindow.xaml - окно выбора анализа
+
+SelectSercvicesWindow.xaml - окно выбора услуги
 
 EditProfileWindow.xaml - окно редактирования профиля пациента
